@@ -42,14 +42,15 @@
     "offering": {
       "title": "I offer",
       "items": [
-        "Document Translation",
-        "Simultaneous Interpretation",
-        "Proofreading & Editing",
-        "Localization"
+        "literary translation ( theater, audio books)",
+        "adaptation for performance (target audience)",
+        "cultural localization",
+        "creative rewriting / transcreation"
       ]
     },
     "contact": {
       "title": "Get in Touch",
+      "tellme": "Tell me about your text or send me something wild. I love unusual projects",
       "cta": "Send Message"
     }
   },
@@ -65,12 +66,12 @@
       }
     },
     "intro": {
-      "name": "Alex Übersetzer",
-      "profession": "Professioneller Übersetzer & Dolmetscher",
-      "motivation": "Kulturen verbinden durch präzise und bedeutungsvolle Kommunikation."
+      "name": "Isa Tlahuilxochitl",
+      "profession": "Literary translation, adaptation & creative transformation",
+      "motivation": "I reshape stories, plays and poems for new audiences"
     },
     "description": {
-      "text": "Mit über 10 Jahren Erfahrung in der Branche biete ich hochwertige Übersetzungsdienste, die auf Ihre spezifischen Bedürfnisse zugeschnitten sind. Meine Leidenschaft liegt darin, sicherzustellen, dass jede Nuance Ihrer Botschaft genau und effektiv vermittelt wird."
+      "text": "My work focuses on translation and creative rewriting I adapt, demostrate, transform and translate. My work is genuine, fluid and voice-flexible. My primary creative target language is Mexican Spanish, but I also work in English or German for analysis, dramaturgy or collaborative projects. Each project gets a unique treatment. What do you have in mind?"
     },
     "translation-box-left": "Linke Sprache",
     "translation-box-right": "Richtige Sprache",
@@ -87,23 +88,25 @@
     "preferences": {
       "title": "Bevorzugte Projekte",
       "items": [
-        "Rechtliche Dokumentation",
-        "Technische Handbücher",
-        "Literarische Werke",
-        "Unternehmenskommunikation"
+        "Stage texts & performance writing",
+        "Poetry and prose",
+        "Short stories",
+        "Cross-cultural or multilingual projects",
+        "Hybrid forms"
       ]
     },
     "offering": {
       "title": "Angebotene Dienste",
       "items": [
-        "Dokumentenübersetzung",
-        "Simultandolmetschen",
-        "Korrekturlesen & Lektorat",
-        "Lokalisierung"
+        "literary translation ( theater, audio books)",
+        "adaptation for performance (target audience)",
+        "cultural localization",
+        "creative rewriting / transcreation"
       ]
     },
     "contact": {
       "title": "Kontaktieren Sie mich",
+      "tellme": "Tell me about your text or send me something wild. I love unusual projects",
       "cta": "Nachricht senden"
     }
   },
@@ -119,12 +122,12 @@
       }
     },
     "intro": {
-      "name": "Alex Traductor",
-      "profession": "Traductor e Intérprete Profesional",
-      "motivation": "Uniendo culturas a través de una comunicación precisa y significativa."
+      "name": "Isa Tlahuilxochitl",
+      "profession": "Literary translation, adaptation & creative transformation",
+      "motivation": "I reshape stories, plays and poems for new audiences"
     },
     "description": {
-      "text": "Con más de 10 años de experiencia en la industria, ofrezco servicios de traducción de alta calidad adaptados a sus necesidades específicas. Mi pasión radica en asegurar que cada matiz de su mensaje se transmita de manera precisa y efectiva."
+      "text": "My work focuses on translation and creative rewriting I adapt, demostrate, transform and translate. My work is genuine, fluid and voice-flexible. My primary creative target language is Mexican Spanish, but I also work in English or German for analysis, dramaturgy or collaborative projects. Each project gets a unique treatment. What do you have in mind?"
     },
     "translation-box-left": "Idioma izquierdo",
     "translation-box-right": "Idioma derecho",
@@ -141,23 +144,25 @@
     "preferences": {
       "title": "Proyectos Preferidos",
       "items": [
-        "Documentación Legal",
-        "Manuales Técnicos",
-        "Obras Literarias",
-        "Comunicaciones Corporativas"
+        "Stage texts & performance writing",
+        "Poetry and prose",
+        "Short stories",
+        "Cross-cultural or multilingual projects",
+        "Hybrid forms"
       ]
     },
     "offering": {
-      "title": "Servicios Ofrecidos",
+      "title": "I offer",
       "items": [
-        "Traducción de Documentos",
-        "Interpretación Simultánea",
-        "Corrección y Edición",
-        "Localización"
+        "literary translation ( theater, audio books)",
+        "adaptation for performance (target audience)",
+        "cultural localization",
+        "creative rewriting / transcreation"
       ]
     },
     "contact": {
       "title": "Ponte en Contacto",
+      "tellme": "Tell me about your text or send me something wild. I love unusual projects",
       "cta": "Enviar Mensaje"
     }
   }

@@ -25,9 +25,7 @@ export default function Contact() {
                                     <span className="text-lg">+49 123 4567895</span>
                                 </div>
                             </div>
-                            <p className="opacity-80">
-                                Available for freelance projects and long-term collaborations.
-                            </p>
+                            <p className="opacity-80">{t("contact.tellme")}</p>
                         </CardBody>
                     </Card>
 
