@@ -1,0 +1,100 @@
+{
+    "poems": [
+        {
+            "id": "p1",
+            "en": "A whisper drifts through the quiet night,",
+            "de": "Ein Flüstern treibt durch die stille Nacht,",
+            "es": "Un susurro flota por la noche silenciosa,"
+        },
+        {
+            "id": "p2",
+            "en": " carrying secrets of forgotten dreams,",
+            "de": " und trägt Geheimnisse vergessener Träume,",
+            "es": " llevando secretos de sueños olvidados,"
+        },
+        {
+            "id": "p3",
+            "en": " as the moon listens patiently.",
+            "de": " während der Mond geduldig lauscht.",
+            "es": " mientras la luna escucha con paciencia."
+        }
+    ],
+    "theater": [
+        {
+            "id": "th1",
+            "en": "Enter the protagonist, hesitant yet determined,",
+            "de": "Eintritt der Protagonist, zögerlich doch entschlossen,",
+            "es": "Entra el protagonista, dudoso pero decidido,"
+        },
+        {
+            "id": "th2",
+            "en": " stepping into the dim spotlight",
+            "de": " der in den gedämpften Scheinwerfer tritt",
+            "es": " avanzando hacia el foco tenue"
+        },
+        {
+            "id": "th3",
+            "en": " as the audience holds its breath.",
+            "de": " während das Publikum den Atem anhält.",
+            "es": " mientras el público contiene la respiración."
+        }
+    ],
+    "narrative": [
+        {
+            "id": "n1",
+            "en": "When Clara arrived in the old village,",
+            "de": "Als Clara im alten Dorf ankam,",
+            "es": "Cuando Clara llegó al viejo pueblo,"
+        },
+        {
+            "id": "n2",
+            "en": " she felt the weight of countless stories",
+            "de": " spürte sie das Gewicht unzähliger Geschichten",
+            "es": " sintió el peso de incontables historias"
+        },
+        {
+            "id": "n3",
+            "en": " hidden behind weathered doors.",
+            "de": " die sich hinter verwitterten Türen verbargen.",
+            "es": " escondidas tras puertas desgastadas."
+        }
+    ],
+    "experimental": [
+        {
+            "id": "e1",
+            "en": "Time cracks open — a glitch, a pulse —",
+            "de": "Die Zeit reißt auf – ein Glitch, ein Puls –",
+            "es": "El tiempo se nos rompe — un glitch, un pulso —,"
+        },
+        {
+            "id": "e2",
+            "en": " voices overlapping in fragments of city noise,",
+            "de": " Stimmen überlagern sich in Fragmenten von Stadtlärm,",
+            "es": " voces que se enciman entre cachitos del ruido chilango,"
+        },
+        {
+            "id": "e3",
+            "en": " reshaping reality at the speed of thought.",
+            "de": " und formen die Realität in der Geschwindigkeit des Denkens neu.",
+            "es": " armando la realidad al vuelo, bien rápido, como de volón."
+        },
+        {
+            "id": "e4",
+            "en": "A sudden jolt — the world hiccups —",
+            "de": "Ein plötzlicher Ruck – die Welt schluckt –",
+            "es": "De pronto un jalón — el mundo se nos traba tantito —,"
+        },
+        {
+            "id": "e5",
+            "en": " and someone whispers: ‘hold on, this isn’t stable’.",
+            "de": " und jemand flüstert: ‘Warte, das ist nicht stabil’.",
+            "es": " y alguien suelta: ‘aguanta, esto ya se está poniendo medio chueco’."
+        },
+        {
+            "id": "e6",
+            "en": "Everything fractures into shimmering paths.",
+            "de": "Alles zerbricht in schimmernde Pfade.",
+            "es": "Todo se raja en caminos brillosos, así bien marcianos, bien de otro pedo."
+        }
+    ]
+}

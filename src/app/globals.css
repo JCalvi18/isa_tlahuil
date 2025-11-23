@@ -1,22 +1,27 @@
 @import "tailwindcss";
+@plugin "../hero";
+@source "../../node_modules/@heroui/theme/dist/**/*.{js,ts,jsx,tsx}";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FFECD1;
+  --foreground: #000000;
+  --palette-deep-teal: #15616D;
+  --palette-teal: #0A9396;
+  --palette-beige: #E9D8A6;
+  --palette-orange: #FF7D00;
+  --palette-red: #78290F;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-deep-teal: var(--palette-deep-teal);
+  --color-teal: var(--palette-teal);
+  --color-beige: var(--palette-beige);
+  --color-orange: var(--palette-orange);
+  --color-red: var(--palette-red);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
 }
 
 body {
